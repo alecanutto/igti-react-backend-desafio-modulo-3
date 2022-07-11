@@ -1,0 +1,18 @@
+{
+  "generator": {
+    "nextId": 3
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Padrão",
+      "email": "padrao@email.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "email": "padrao@email.com",
+      "password": "1234"
+    }
+  ]
+}
